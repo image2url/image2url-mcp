@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-image2url",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "One-command MCP server that uploads images to image2url.com and returns shareable links/snippets without an API key.",
   "license": "MIT",
   "type": "module",
@@ -22,8 +22,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/image2url/mcp-server-image2url.git"
+    "url": "git+https://github.com/image2url/image2url-mcp.git"
   },
+  "homepage": "https://www.image2url.com/tools/mcp-server-image2url",
+  "bugs": {
+    "url": "https://github.com/image2url/image2url-mcp/issues"
+  },
+  "author": "image2url",
   "keywords": [
     "mcp",
     "image2url",
